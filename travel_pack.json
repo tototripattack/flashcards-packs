@@ -17,3 +17,22 @@
     }
   ]
 }
+{
+  "id": "bobk",
+  "category": "ssfs",
+  "version": 1,
+  "words": [
+    {
+      "en": "Airport",
+      "heb": "vddfdf",
+      "phonetic": "ffsf",
+      "definitionHeb": "sfsfss",
+      "distractors": ["מַלּוֹן", "תַּחֲנָה"],
+      "sentenceEn": "We arrived at the airport.",
+      "sentenceHeb": "fefege",
+      "sentencePhonetic": "dfdfdgdsgsg",
+      "img": "",
+      "audio": ""
+    }
+  ]
+}
