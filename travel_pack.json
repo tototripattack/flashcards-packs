@@ -1,36 +1,29 @@
 {
   "id": "travel_pack",
   "category": "תיירות ונסיעות",
-  "version": 1,
+  "version": 2,
   "words": [
     {
       "en": "Airport",
       "heb": "שְׂדֵה תְּעוּפָה",
-      "phonetic": "אֶרְפּוֹרְט",
-      "definitionHeb": "מָקוֹם מִמֶּנּוּ מַמְרִיאִים מְתוֹסִים",
-      "distractors": ["מַלּוֹן", "תַּחֲנָה"],
+      "phonetic": "אַרְפּוֹרְט",
+      "definitionHeb": "מָקוֹם מִמֶּנּוּ מַמְרִאיִים מְטוֹסִים",
+      "distractors": ["מָלוֹן", "מַטְבֵּעַ"],
       "sentenceEn": "We arrived at the airport.",
-      "sentenceHeb": "הִגַּעְנוּ לִשְׂדֵה הַתְּעוּפָה.",
-      "sentencePhonetic": "וִי אָרַייבְד אֶט זֶה אֶרְפּוֹרְט",
+      "sentenceHeb": "הַגַּעֲנוּ לְשְׂדֵה הַתְּעוּפָה.",
+      "sentencePhonetic": "וִי אֲרִיבְד אַט זֶה אַרְפּוֹרְט",
       "img": "",
       "audio": ""
-    }
-  ]
-}
-{
-  "id": "bobk",
-  "category": "ssfs",
-  "version": 1,
-  "words": [
+    },
     {
-      "en": "Airport",
-      "heb": "vddfdf",
-      "phonetic": "ffsf",
-      "definitionHeb": "sfsfss",
-      "distractors": ["מַלּוֹן", "תַּחֲנָה"],
-      "sentenceEn": "We arrived at the airport.",
-      "sentenceHeb": "fefege",
-      "sentencePhonetic": "dfdfdgdsgsg",
+      "en": "Hotel",
+      "heb": "מָלוֹן",
+      "phonetic": "הוֹטֶל",
+      "definitionHeb": "מָקוֹם לָלוּן בּוֹ בְּעֵT חֻפְשָׁה",
+      "distractors": ["שְׂדֵה תְּעוּפָה", "רַכֶּבֶת"],
+      "sentenceEn": "The hotel is very nice.",
+      "sentenceHeb": "הַמָּלוֹן מְאֹד נֶחְמָד.",
+      "sentencePhonetic": "זֶה הוֹטֶל אִיז וֶוארִי נַיְס",
       "img": "",
       "audio": ""
     }
