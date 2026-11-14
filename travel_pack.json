@@ -1,0 +1,19 @@
+{
+  "id": "travel_pack",
+  "category": "תיירות ונסיעות",
+  "version": 1,
+  "words": [
+    {
+      "en": "Airport",
+      "heb": "שְׂדֵה תְּעוּפָה",
+      "phonetic": "אֶרְפּוֹרְט",
+      "definitionHeb": "מָקוֹם מִמֶּנּוּ מַמְרִיאִים מְתוֹסִים",
+      "distractors": ["מַלּוֹן", "תַּחֲנָה"],
+      "sentenceEn": "We arrived at the airport.",
+      "sentenceHeb": "הִגַּעְנוּ לִשְׂדֵה הַתְּעוּפָה.",
+      "sentencePhonetic": "וִי אָרַייבְד אֶט זֶה אֶרְפּוֹרְט",
+      "img": "",
+      "audio": ""
+    }
+  ]
+}
