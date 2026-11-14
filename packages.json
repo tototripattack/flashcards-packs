@@ -5,14 +5,12 @@
     "description": "מילים שימושיות לשדה תעופה ולמלונות",
     "version": 1,
     "url": "https://raw.githubusercontent.com/tototripattack/flashcards-packs/refs/heads/content-words/travel_pack.json"
-  }
-]
-[
+  },
   {
     "id": "bobk",
-    "name": "חבילת תיירות ונסיעות",
-    "description": "מילים שימושיות לשדה תעופה ולמלונות",
+    "name": "שם החבילה החדשה",
+    "description": "תיאור החבילה החדשה",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/tototripattack/flashcards-packs/refs/heads/content-words/travel_pack.json"
+    "url": "https://raw.githubusercontent.com/tototripattack/flashcards-packs/refs/heads/content-words/bobk.json"
   }
 ]
