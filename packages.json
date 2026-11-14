@@ -1,7 +1,7 @@
 [
   {
     "id": "travel_pack",
-    "name": "חבילת תיירות ונסיעות ✈️",
+    "name": "חבילת תיירות ונסיעות",
     "description": "מילים שימושיות לשדה תעופה ולמלונות",
     "version": 1,
     "url": "https://raw.githubusercontent.com/tototripattack/flashcards-packs/refs/heads/content-words/travel_pack.json"
